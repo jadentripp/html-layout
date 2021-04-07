@@ -1,0 +1,66 @@
+.header{
+    height: 125px;
+    width: 100%;
+    background-color: rgb(197, 197, 197);
+    margin-left: 0;
+    display: inline-block;
+    padding-left: 10px;
+    padding-top:8px ;
+    padding-right: 10px;
+}
+#blue-box {
+    height: 5em;
+    width: 5em;
+    background-color: blue;
+}
+
+.main {
+    padding-top: 40px;
+    padding-left: 40px ;
+    padding-right: 40px;
+}
+p {
+    margin:auto;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+.blue {
+   height: 125px;
+    width: 100%;
+    background-color: rgb(41, 69, 231);
+    margin-left: 0;
+    display: block;
+    padding-left: 10px;
+    padding-top:8px ;
+    padding-right: 10px;
+}
+.teal {
+    height: 125px;
+    width: 100%;
+    background-color: rgb(41, 218, 231);
+    margin-left: 0;
+    display:block;
+    padding-left: 10px;
+    padding-top:8px ;
+    padding-right: 10px;
+}
+.green {
+    height: 125px;
+    width: 100%;
+    background-color: rgb(41, 231, 57);
+    margin-left: 0;
+    display: block;
+    padding-left: 10px;
+    padding-top:8px ;
+    padding-right: 10px;
+}
+.footer{
+    height: 125px;
+    width: 100%;
+    background-color: rgb(224, 233, 93);
+    margin-left: 0;
+    display:block;
+    padding-left: 10px;
+    padding-top:8px ;
+    padding-right: 10px;
+}
